@@ -1,0 +1,25 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "origin": {
+    "id": "1",
+    "name": "Tehran"
+  },
+  "destination": {
+    "id": "2",
+    "name": "Sananndaj"
+  },
+  "startDate": "2025-03-01T00:00:00.000Z",
+  "endDate": "2025-03-05T00:00:00.000Z",
+  "title": "تور کردستان",
+  "fleetVehicle": "bus",
+  "price": 105000,
+  "availableSeats": 16,
+  "capacity": 30,
+  "insurance": true,
+  "options": [
+    "راهنمای تور",
+    "ساحل اختصاصی",
+    "صبحانه، نهار و شام"
+  ],
+  "image": "http://localhost:6500/static/images/kurdestanTour.png"
+}
